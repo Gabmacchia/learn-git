@@ -2,7 +2,7 @@
 
 subscribe to me on youtube
 
-'''javascript
+```javascript
 console.log('hello world');
 
-'''
+```
